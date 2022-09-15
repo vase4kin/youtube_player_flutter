@@ -11,7 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview: ^5.4.3+7
+  flutter_inappwebview:
+    git: https://github.com/vase4kin/flutter_inappwebview
 
 dev_dependencies:
   flutter_test:
